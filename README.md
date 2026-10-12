@@ -11,7 +11,7 @@ SMB credential brute force. Built-in wordlists — 67 usernames, 148 passwords, 
 - Spray mode: one password across all users before the next password
 - Lockout detection: stops immediately on `STATUS_ACCOUNT_LOCKED_OUT`
 - Configurable delay between attempts
-- Single-target, single-file, no external wordlists needed
+- no external wordlists needed
 
 ## Install
 
