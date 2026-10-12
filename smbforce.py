@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 """
-smbforce — SMB credential brute force
 Dev: Dravik  TG: @x_tcp
 """
 import argparse
